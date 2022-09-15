@@ -32,11 +32,11 @@ git init
 
 // To add the files in the repository
 
-git add -A //if stage all
+git add -A       //if stage all
 
-git add .  // else if stage new and modified without deleted
+git add .              // else if stage new and modified without deleted
 
-git add -u // else stages modified and deleted without new
+git add -u              // else stages modified and deleted without new
 
 git commit -m "Version n"
 
