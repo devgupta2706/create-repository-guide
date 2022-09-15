@@ -22,11 +22,11 @@ Javascript, HTML, CSS,Java,C++,Python(Data Science)...
 
 # Goto the folder which you want to make git repository or existing repository
 
-//To check whether it is a git repository or not
+## To check whether it is a git repository or not
 
 git status
 
-// if not a git repository
+## If not a git repository
 
 git init
 
@@ -38,8 +38,10 @@ git config --global user.name "Your-username"
 
 git config --global user.email "abc@gmail.com"
 
-//To know the changes created by whom
+## To know the changes created by whom
+
 git log
+
 # Create a new repository on the command line
 
 echo "# ok" >> README.md
