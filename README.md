@@ -22,7 +22,9 @@ Javascript, HTML, CSS,Java,C++,Python(Data Science)...
 
 # Goto the folder which you want to make git repository or existing repository
 
-git status //to check whether it is a git repository or not
+//To check whether it is a git repository or not
+
+git status
 
 // if not a git repository
 
