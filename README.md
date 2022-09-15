@@ -32,6 +32,14 @@ git init
 
 git add .
 
+git commit -m "Version n"
+
+git config --global user.name "Your-username"
+
+git config --global user.email "abc@gmail.com"
+
+//To know the changes created by whom
+git log
 # Create a new repository on the command line
 
 echo "# ok" >> README.md
@@ -47,7 +55,6 @@ git branch -M main
 git remote add origin git@github.com:<username/repository-name>.git
 
 git push -u origin main
-
 
 # Push an existing repository from the command line
 
