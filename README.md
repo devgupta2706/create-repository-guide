@@ -1,6 +1,6 @@
 ## Authors
 
-- [@Dev_Gupta](https://github.com/devgupta2706/)
+- [@Dev_Gupta](https://www.linkedin.com/in/dev-gupta-9270aa222/)
 
 ## Acknowledgements
 
