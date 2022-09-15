@@ -20,6 +20,16 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ## 🛠 Skills
 Javascript, HTML, CSS,Java,C++,Python(Data Science)...
 
+# Goto the folder which you want to make git repository or existing repository
+
+git status //to check whether it is a git repository or not
+
+// if not a git repository
+
+git init
+
+git add .
+
 # Create a new repository on the command line
 
 echo "# ok" >> README.md
