@@ -56,6 +56,14 @@ git branch login
 
 git checkout login
 
+# To create a ignore file
+
+touch .gitignore
+
+git add .
+
+git commit -m "first commit"
+
 # Create a new repository on the command line
 
 echo "# ok" >> README.md
