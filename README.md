@@ -48,6 +48,14 @@ git config --global user.email "abc@gmail.com"
 
 git log
 
+# To create a new branch name login
+
+git branch login
+
+# To jump to the branch name login
+
+git checkout login
+
 # Create a new repository on the command line
 
 echo "# ok" >> README.md
