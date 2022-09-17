@@ -56,6 +56,10 @@ git branch login
 
 git checkout login
 
+# To delete a branch
+
+git branch -d login
+
 # Create a new repository on the command line
 
 echo "# ok" >> README.md
