@@ -64,6 +64,8 @@ git add .
 
 git commit -m "first commit"
 
+git push -u origin master
+
 # Create a new repository on the command line
 
 echo "# ok" >> README.md
