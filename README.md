@@ -30,17 +30,17 @@ git status
 
 git init
 
-#To add the files in the repository
+## To add the files in the repository
 
-#if stage all
+# if stage all
 
 git add -A       
 
-#if stage new and modified without deleted
+# if stage new and modified without deleted
 
 git add .              
 
- #stages modified and deleted without new
+ # stages modified and deleted without new
  
 git add -u             
 
