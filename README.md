@@ -90,6 +90,21 @@ git branch -M main
 
 git push -u origin main
 
+# Create a .gitignore file
+
+touch .gitignore
+
+# Open blank .gitignore file
+
+notepad .gitignore
+
+# To ignore some specific file 
+
+git rm --cached FILENAME
+
+# To ignore all the repositories of computer
+
+git config --global core.excludesfile ~/.gitignore_global
 
 # Import code from another repository
 
